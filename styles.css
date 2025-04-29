@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.landing-title {
+    font-size: 36;
+    color: orangered
+}
