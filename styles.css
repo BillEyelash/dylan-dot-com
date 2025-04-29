@@ -6,9 +6,15 @@ body {
 .landing-card {
     display: flex;
     flex-direction: column;
-    margin: 10% 40%;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
 }
 .landing-title {
     font-size: 36;
     color: orangered
+}
+
+.landing-card img {
+    max-width: 100%;
 }
