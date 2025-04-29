@@ -3,6 +3,11 @@ body {
     background-color: black;
 }
 
+.landing-card {
+    display: flex;
+    flex-direction: column;
+    margin: 10% 40%;
+}
 .landing-title {
     font-size: 36;
     color: orangered
